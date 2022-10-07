@@ -1,7 +1,7 @@
 var btnMenu = false;
 var main = document.querySelector('.main');
 
-var url = "https://chisimun.github.io/Trilha/levels/Level1.html";//Sua URL
+var url = "https://chisimun.github.io/Trilha/levels/level1.html";//Sua URL
 var xhttp = new XMLHttpRequest();
 xhttp.open("GET", url, false);
 xhttp.send();//A execução do script pára aqui até a requisição retornar do servidor
